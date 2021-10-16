@@ -3,7 +3,7 @@
 
 ## About me
 Anna Nowak earned her Engineer Degree in Automatic Control and Robotics at the Warsaw University of Technology (Faculty of Power and Aeronautical Engineering).
-She is currently an master degree student (specialization Data Analitycs - Big Data) at SGH Warsaw School of Economics (Poland).
+She is currently a master degree student (specialization Data Analitycs - Big Data) at SGH Warsaw School of Economics (Poland).
 She also works as CAX/ PLM Specialist.
 
 
